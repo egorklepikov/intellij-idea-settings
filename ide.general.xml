@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="defaultProjectDirectory" value="D:\projects" />
+    <option name="reopenLastProject" value="false" />
   </component>
   <component name="Registry">
     <entry key="go.run.processes.with.pty" value="false" />
